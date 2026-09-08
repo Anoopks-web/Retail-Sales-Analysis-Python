@@ -30,7 +30,7 @@ The dataset contains retail transaction information with the following columns:
 * Pandas
 * NumPy
 * Matplotlib
-* Jupyter Notebook / Google Colab
+* Google Colab
 * GitHub
 
 ---
